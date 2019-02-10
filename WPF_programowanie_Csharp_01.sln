@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf_programowanie_csharp_01", "WPF_programowanie_Csharp_01\wpf_programowanie_csharp_01.csproj", "{A71998AF-7BDE-44AA-8CE6-94C08F1EA939}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A71998AF-7BDE-44AA-8CE6-94C08F1EA939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71998AF-7BDE-44AA-8CE6-94C08F1EA939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71998AF-7BDE-44AA-8CE6-94C08F1EA939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71998AF-7BDE-44AA-8CE6-94C08F1EA939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADAB40A1-474F-4EE7-9B69-7CEEFE39B99D}
+	EndGlobalSection
+EndGlobal
